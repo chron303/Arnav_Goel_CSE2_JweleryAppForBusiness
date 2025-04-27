@@ -86,7 +86,7 @@ A full-stack web application for a jewelry shop, built with **React.js** (fronte
 - Admin/user roles
 
 ## Video Demonstration
-[Project Video](https://drive.google.com/file/d/1yXsSCTnPJViWJJlk1bwrCqPM-ORzcAZ-/view?usp=sharing)
+[Project Video](https://drive.google.com/file/d/1l6mOqLRJfYdsPU3dQ41Nk6PwJMOEk_1f/view?usp=sharing)
 
 Shows the app's functionality: login, product browsing, cart, and order completion.
 
