@@ -1,4 +1,6 @@
-# Arnav Goel CSE1 Jewelry Shop Project
+# Arnav Goel CSE1 Jewelry Shop Project![image](https://github.com/user-attachments/assets/89b8822d-5c89-48ed-988c-e2136ae52716)![image](https://github.com/user-attachments/assets/c688037f-c59c-489f-9ee1-808ad72dffd5)
+
+
 
 A full-stack web application for a jewelry shop, built with **React.js** (frontend), **Node.js** (backend), and **MongoDB** (database). Features include user authentication, product browsing, cart management, and order tracking.
 
