@@ -95,6 +95,9 @@ Shows the app's functionality: login, product browsing, cart, and order completi
 
 Covers technical details, design, and implementation.
 
+## Project Presentation
+[Project PPT](https://docs.google.com/document/d/1kZPEr5LQ9OWb-cxZvSJhQ6WClzcInE27/edit?usp=sharing&ouid=108643416665566090446&rtpof=true&sd=true)
+
 ## Contributing
 1. Fork the repository
 2. Create a branch (`git checkout -b feature-branch`)
