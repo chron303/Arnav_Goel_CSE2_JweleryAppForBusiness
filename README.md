@@ -72,11 +72,9 @@ A full-stack web application for a jewelry shop, built with **React.js** (fronte
 - Product listings
 - User authentication (signup/login)
 - Cart and checkout
-- Order history
 
 **Backend:**
 - JWT-based authentication
-- Product CRUD operations
 - Order and inventory management
 - Admin/user roles
 
