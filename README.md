@@ -1,4 +1,4 @@
-# Arnav Goel CSE2 Jewelry Shop Project![image](https://github.com/user-attachments/assets/89b8822d-5c89-48ed-988c-e2136ae52716)![image](https://github.com/user-attachments/assets/c688037f-c59c-489f-9ee1-808ad72dffd5)
+# Arnav Goel CSE2 Jewelry Shop Project!
 B.Tech CSE-2
 Arnav Goel(2301010070)
 Ranith Mondal(2301010121)
