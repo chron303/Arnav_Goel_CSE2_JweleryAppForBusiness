@@ -1,0 +1,86 @@
+# Arnav Goel CSE1 Jewelry Shop Project
+
+Arnav Goel(2301010070)
+Ranith Mondal(2301010121)
+Priyanshu Raj(2301010130)
+Aman Kumar(2301010069)
+
+A full-stack web application for a jewelry shop Features include user authentication, product browsing, cart management, and order tracking.
+
+## Project Setup
+
+### Prerequisites
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/try/download/community) or MongoDB Atlas
+
+
+## Running the Project
+
+### 1. Backend Setup
+1. Navigate to `Backend/`:
+   ```bash
+   cd Backend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the server:
+   ```bash
+   npm start
+   ```
+   Runs at `http://localhost:5000`.
+
+### 2. Frontend Setup
+1. Navigate to `Frontend/`:
+   ```bash
+   cd Frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the React app:
+   ```bash
+   npm run dev
+   ```
+   Runs at `http://localhost:3000`.
+
+## Features
+**Frontend:**
+- Product listings
+- User authentication (signup/login)
+- Cart and checkout
+- Order history
+
+**Backend:**
+- JWT-based authentication
+- Product CRUD operations
+- Order and inventory management
+- Admin/user roles
+
+## Video Demonstration
+[Project Video](https://drive.google.com/file/d/1l6mOqLRJfYdsPU3dQ41Nk6PwJMOEk_1f/view?usp=sharing)
+
+Shows the app's functionality: login, product browsing, cart, and order completion.
+
+## Project Report
+[Project Report - Word File](https://docs.google.com/document/d/1kZPEr5LQ9OWb-cxZvSJhQ6WClzcInE27/edit?usp=sharing&ouid=108643416665566090446&rtpof=true&sd=true)
+
+Covers technical details, design, and implementation.
+
+## Project Presentation
+[Project PPT - PPT](https://docs.google.com/presentation/d/1ipYcWo_lsQMJRc2CJSio2r3nEP7Fz5-2/edit?usp=sharing&ouid=108643416665566090446&rtpof=true&sd=true)
+
+Covers technical details, design, and implementation.
+
+
+## Contributing
+1. Fork the repository
+2. Create a branch (`git checkout -b feature-branch`)
+3. Commit changes (`git commit -m "Add feature"`)
+4. Push (`git push origin feature-branch`)
+5. Create a pull request
+
+## License
+MIT License - see the LICENSE file for details.
