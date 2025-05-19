@@ -14,37 +14,7 @@ A full-stack web application for a jewelry shop Features include user authentica
 - [MongoDB](https://www.mongodb.com/try/download/community) or MongoDB Atlas
 
 
-## Running the Project
 
-### 1. Backend Setup
-1. Navigate to `Backend/`:
-   ```bash
-   cd Backend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the server:
-   ```bash
-   npm start
-   ```
-   Runs at `http://localhost:5000`.
-
-### 2. Frontend Setup
-1. Navigate to `Frontend/`:
-   ```bash
-   cd Frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the React app:
-   ```bash
-   npm run dev
-   ```
-   Runs at `http://localhost:3000`.
 
 ## Features
 **Frontend:**
