@@ -14,8 +14,6 @@ A full-stack web application for a jewelry shop Features include user authentica
 - [MongoDB](https://www.mongodb.com/try/download/community) or MongoDB Atlas
 
 
-
-
 ## Features
 **Frontend:**
 - Product listings
@@ -45,12 +43,6 @@ Covers technical details, design, and implementation.
 Covers technical details, design, and implementation.
 
 
-## Contributing
-1. Fork the repository
-2. Create a branch (`git checkout -b feature-branch`)
-3. Commit changes (`git commit -m "Add feature"`)
-4. Push (`git push origin feature-branch`)
-5. Create a pull request
 
 ## License
 MIT License - see the LICENSE file for details.
