@@ -1,9 +1,7 @@
 # Arnav Goel CSE1 Jewelry Shop Project
 
 Arnav Goel(2301010070)
-Ranith Mondal(2301010121)
-Priyanshu Raj(2301010130)
-Aman Kumar(2301010069)
+
 
 A full-stack web application for a jewelry shop Features include user authentication, product browsing, cart management, and order tracking.
 
